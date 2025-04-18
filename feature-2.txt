@@ -1,3 +1,2 @@
 Added second feature
 Added some more functionalities in feature-2
-Added wrong piece of code.
