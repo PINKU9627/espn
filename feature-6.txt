@@ -1,2 +1,3 @@
 Added checkout feature.
 Check the payment option.
+See mastercard option.
