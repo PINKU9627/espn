@@ -1,1 +1,2 @@
 Added checkout feature.
+Check the payment option.
